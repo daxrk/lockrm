@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var allowedUrls = ["en.rm1news.com", "rm1news.com"];
+    var allowedUrls = ["en.rm1news.com", "rm1news.com" , "testlocoalhost.rf.gd"];
     var currentUrl = window.location.hostname;
 
     // Check if the current URL is not in the allowedUrls array
